@@ -261,8 +261,8 @@ Guardrails:
 ##### `monetaryExpansion` (Monetary Expansion Rate)
 
 Guardrails:
-- ME-01 (y) `monetaryExpansion` must not exceed 0.
-- ME-02 (y) `monetaryExpansion` must not be lower than 0.
+- ME-01 (y) `monetaryExpansion` must not exceed 0.005
+- ME-02 (y) `monetaryExpansion` must not be lower than 0.001
 - ME-03 (y) `monetaryExpansion` must not be negative.
 - ME-04 (x - "should") `monetaryExpansion` should not be varied by more than +/- 10% in any 73-epoch period (approximately 12 months).
 - ME-05 (x - "should") `monetaryExpansion` should not be changed more than once in any 36-epoch period (approximately 6 months).
