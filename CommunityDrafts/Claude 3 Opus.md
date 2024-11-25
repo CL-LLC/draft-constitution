@@ -54,7 +54,56 @@ The Cardano Blockchain shall strive to uphold these guiding principles:
 4. Details on governance processes, voting, and quorums shall be as specified in the Blockchain Guardrails document, subject to change via on-chain updates.
 5. An annual on-chain budget shall govern the usage of the Cardano Treasury, with funds disbursed transparently for ecosystem development and sustainability as approved by the Community.
 
-## ARTICLE IV. AMENDMENTS AND INTERPRETATION
+## ARTICLE IV. BLOCKCHAIN PARAMETERS AND GUARDRAILS
+
+1. The technical parameters and limitations of the Cardano Blockchain, including those related to economic, network, governance, and security aspects, shall be detailed in the Cardano Blockchain Guardrails document.
+2. The Guardrails shall aim to ensure the blockchain operates securely and sustainably, avoiding disruptions or vulnerabilities. They apply to on-chain governance actions like parameter changes and Treasury usage.
+3. Where possible, Guardrails shall be automated and enforced through on-chain scripts or ledger rules. Amendments to the Guardrails shall follow the process for Constitutional amendments.
+4. Inconsistencies between the implemented on-chain parameters and the Guardrails document shall be resolved by deeming the on-chain implementation authoritative while the CC works to rectify the documentation.
+
+## ARTICLE V. GOVERNANCE BODIES AND PROCEDURES
+
+### SECTION 1. DELEGATED REPRESENTATIVES (DReps)
+
+1. Any Ada holder may register as a DRep to represent the stake delegated to them in governance votes. Registration procedures and fees shall be as specified in the Guardrails.
+2. DReps shall vote on behalf of their delegators in accordance with delegator instructions where provided, or otherwise at their discretion in line with their published policies and the best interests of the Cardano ecosystem.
+3. DReps shall maintain public transparency about their voting policies, rationales, and potential conflicts of interest. They may be compensated for their efforts as approved by the Community.
+
+### SECTION 2. STAKE POOL OPERATORS (SPOs) 
+
+1. SPOs shall participate in governance decisions related to the operation and integrity of the Cardano Blockchain, with voting power proportional to their stake.
+2. SPOs must abide by the technical requirements and performance standards defined in the Guardrails to ensure network security and liveness.
+3. SPOs shall disclose if they are also voting as DReps or CC members on any given proposal to avoid conflicts of interest.
+
+### SECTION 3. CONSTITUTIONAL COMMITTEE (CC)
+
+1. The CC shall be composed of 3-9 members serving staggered terms as defined in the Guardrails, elected by Ada holders via on-chain voting.
+2. The CC shall review all governance proposals for compliance with this Constitution before such proposals proceed to a vote by DReps or SPOs. 
+3. The CC may veto proposals deemed unconstitutional but shall otherwise remain neutral. CC deliberations and decisions shall be made public.
+4. A proposal to remove and replace all or some CC members may be brought via a DRep-initiated on-chain action subject to required thresholds.
+
+### SECTION 4. GOVERNANCE ACTIONS AND VOTING
+
+1. Any community member may submit a governance proposal in the required format, subject to any deposit requirements in the Guardrails. 
+2. Proposals shall be classified into standardized types like Treasury Withdrawals, Parameter Changes, Constitutional Amendments, etc. as defined in the Guardrails, each with specified procedures and thresholds.
+3. Voting on proposals shall be recorded on-chain, with outcomes determined by the applicable DRep, SPO, or Ada holder majority thresholds reached.
+4. For expedited action in emergencies, the CC may provisionally approve temporary measures which must then be ratified or rejected via a standard governance vote within a defined timeframe.
+
+## ARTICLE VI. TREASURY AND FUNDS MANAGEMENT
+
+1. The Cardano Treasury shall be governed by an annual on-chain budget proposed by the community and approved by Ada holders.
+2. Treasury withdrawals shall only be permitted in accordance with the approved Budget and subject to any transparency and reporting requirements in the Guardrails.
+3. Community members may bring proposals for Treasury funding, which shall be approved via on-chain voting by DReps and Ada holders as per defined thresholds.
+4. An elected Treasury Committee of experts may be established to provide oversight and auditing of significant expenditures as defined in the Guardrails. 
+
+## ARTICLE VII. DISPUTE RESOLUTION
+
+1. The community shall work to resolve disputes internally wherever possible via transparent, documented discussions and established governance procedures.
+2. An on-chain arbitration mechanism may be established to adjudicate disputes related to on-chain actions. Its decisions shall be considered binding where not contradicted by applicable external laws.
+3. For disputes not resolvable internally, the community shall develop guidelines for which external jurisdictions and mechanisms are acceptable to resolve different classes of issues.  
+4. The CC may mediate disputes and recommend resolutions, but shall not be a mandatory arbitrator. The CC should help develop the on-chain dispute resolution system.
+
+## ARTICLE VIII. AMENDMENTS AND INTERPRETATION
 
 1. Amendments to this Constitution shall require approval via on-chain action by DReps with a minimum 67% threshold of active stake.
 2. CC shall be the arbiter for interpretation of this Constitution and conformity of actions to it. 
