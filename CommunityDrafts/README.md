@@ -9,4 +9,4 @@ Below are links to various alternate community drafts of the Cardano Constitutio
 - [Jane's Version](https://docs.google.com/document/u/0/d/1ZHPSvXKfZKSCzeZFshMMqL_9SWg3X-58DHkKXn0h3xU/mobilebasic)
 - [Alfonso Spencer's Version](https://x.com/AlfonsoSpencer9/status/1853342796666515527)
 - [Attonasi's Version](https://x.com/Attonasi/status/1858879911068303499)
-- [ChatGPT's Version](https://x.com/adamKDean/status/1859795419427225689)
+- [Phil Lewis's Version](https://github.com/phillewis/cardano-constitution/blob/main/phillewis/phillewis-draft-constitution.md)
