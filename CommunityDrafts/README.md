@@ -10,3 +10,4 @@ Below are links to various alternate community drafts of the Cardano Constitutio
 - [Alfonso Spencer's Version](https://x.com/AlfonsoSpencer9/status/1853342796666515527)
 - [Attonasi's Version](https://x.com/Attonasi/status/1858879911068303499)
 - [Phil Lewis's Version](https://github.com/phillewis/cardano-constitution/blob/main/phillewis/phillewis-draft-constitution.md)
+- [Yuta's Version](https://docs.google.com/spreadsheets/d/1v7Hdn9mPsjTUvY7C3hhPJG6J58eGtjCIuc8T-9i08ek/edit?usp=sharing)
